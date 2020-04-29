@@ -1,0 +1,30 @@
+[
+    {
+        "name":"Samet Demir",
+        "age":"23",
+        "height":"186",
+        "gender":"male",
+        "hair_color":"black"
+    },
+    {
+        "name":"Ömer Demir",
+        "age":"47",
+        "height":"186",
+        "gender":"male",
+        "hair_color":"gray"
+    },
+    {
+        "name":"Serap Demir",
+        "age":"44",
+        "height":"170",
+        "gender":"female",
+        "hair_color":"yellow"
+    },
+    {
+        "name":"Ezgi Demir",
+        "age":"20",
+        "height":"270",
+        "gender":"female",
+        "hair_color":"black"
+    }
+]
