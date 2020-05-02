@@ -1,16 +1,11 @@
-# json_app
+## Load Json Data with Flutter App
+------------------------------------
+[![Codemagic build status](https://api.codemagic.io/apps/5eacc75676654b7b23430a19/5eacc75676654b7b23430a18/status_badge.svg)](https://codemagic.io/apps/5eacc75676654b7b23430a19/5eacc75676654b7b23430a18/latest_build)
+### Starter Application Series
+You can make the necessary changes in the "Load Json" file.
 
-A new Flutter project.
+Every change you make will be shown with hot reload.
 
-## Getting Started
+![WhatsApp Image 2020-05-02 at 04 43 55](https://user-images.githubusercontent.com/43873156/80852332-663fd680-8c30-11ea-9069-7aab8870a722.jpeg)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
