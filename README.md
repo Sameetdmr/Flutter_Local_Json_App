@@ -1,7 +1,7 @@
 ## Load Json Data with Flutter App
 ------------------------------------
 [![Codemagic build status](https://api.codemagic.io/apps/5eacc75676654b7b23430a19/5eacc75676654b7b23430a18/status_badge.svg)](https://codemagic.io/apps/5eacc75676654b7b23430a19/5eacc75676654b7b23430a18/latest_build)
-### Starter Application Series
+### Starter Application Series-2
 You can make the necessary changes in the "Load Json" file.
 
 Every change you make will be shown with hot reload.
